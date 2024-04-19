@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PM2E3ALEKS.Views.PaginaPrincipal"
               BackgroundColor ="MidnightBlue"
-             Title="Pagina Principal - Aleks Pineda">
+             Title="Examen Final - Aleks Pineda">
     
     <ContentPage.ToolbarItems>
     <ToolbarItem Text="Limpiar" IconImageSource="restart_ico" Clicked="OnBtnLimpiarClicked"/>
